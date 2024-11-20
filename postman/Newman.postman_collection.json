@@ -1,0 +1,35 @@
+{
+	"info": {
+		"_postman_id": "d7d8155b-262b-4e28-a0f3-8a31bf7033ee",
+		"name": "Newman",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "29974943"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\"nth\":\"100000\"}"
+				},
+				"url": {
+					"raw": "https://functionprojectfibonacciarsw.azurewebsites.net/api/Fibonacci",
+					"protocol": "https",
+					"host": [
+						"functionprojectfibonacciarsw",
+						"azurewebsites",
+						"net"
+					],
+					"path": [
+						"api",
+						"Fibonacci"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
