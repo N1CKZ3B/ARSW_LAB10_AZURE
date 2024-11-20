@@ -99,7 +99,3 @@ A pesar de que la duracion varia en todas las iteraciones no hay ningun fallo y 
 * Informe
 
   Al intentar evaluar la funcion hecha en el punto 6 se sabe y se encuentra una mayor eficiencia, sin embargo, esto no nos permite el ingreso de datos muy grandes dado que arroja un error, esto se puede deber en gran medida a una alta carga de trabajo que esta recibiendo la instancia, se podria optimizar la funcion y hacerla mas escalable, al menos de un modo vertical haciendo la funcion mas optima, pero a la vez mucho más potente.
-
-  ![image](https://github.com/user-attachments/assets/49aeb2dd-1944-44b3-8474-8c276f918d8b)
-
-Hay limites con la carga del servidor.
